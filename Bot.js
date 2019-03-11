@@ -1181,4 +1181,4 @@ message.channel.sendEmbed(avatar)
 
 
 
-client.login("");
+client.login("NTE2MjUxNTA2ODM2NjM1NjY5.D2e8EQ.Y31fCx5XvHWy5OafDGeTeXFxhKE");
